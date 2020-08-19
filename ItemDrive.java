@@ -12,3 +12,4 @@ public class ItemDrive {
     System.out.println("myItem: " + myItem.getPrice());
     System.out.println("myOtherItem: " + myOtherItem.getPrice());
   }
+}
